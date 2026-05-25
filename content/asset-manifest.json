@@ -1,0 +1,18 @@
+{
+  "images": {
+    "scene-1-start": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/scene-1-start.png",
+    "scene-1-end": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/scene-1-end.png",
+    "section-about-hero": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/section-about-hero.png",
+    "section-contact-hero": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/section-contact-hero.png",
+    "section-cta": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/section-cta.png",
+    "section-og": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/section-og.png",
+    "service-discovery": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/service-discovery.png",
+    "service-fulfillment": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/service-fulfillment.png",
+    "service-settlement": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/service-settlement.png",
+    "service-trust": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/images/service-trust.png"
+  },
+  "videos": {
+    "scene-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/448a1a55-cf1b-4e1b-b6c3-b9ffae70ba25/videos/scene-1.mp4"
+  },
+  "frames": {}
+}

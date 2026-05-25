@@ -1,0 +1,20 @@
+{
+  "company": "Maven Market",
+  "industry": "Multi-vendor digital marketplace",
+  "audience": "Investors / press",
+  "location": "Lagos, Nigeria",
+  "mode": "live-generate",
+  "manifestId": "gen-2026-05-25-maven-market",
+  "archetype": "G",
+  "g_render_mode": "scrub-assemble",
+  "style": "S3-warm-clay",
+  "voice": "V3-editorial",
+  "scene_variant": "V1",
+  "motion_variant": "M9-assemble",
+  "palette": {
+    "bg": "#F4E4D7",
+    "surface": "#E8B89A",
+    "accent": "#C7765C",
+    "contrast": "#7A3826"
+  }
+}

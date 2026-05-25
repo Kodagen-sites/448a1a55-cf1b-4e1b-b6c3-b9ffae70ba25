@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #F4E4D7;
+  --bg-secondary: #EAD3BF;
+  --bg-tertiary: #E8B89A;
+  --bg-accent: #C7765C;
+  --bg-contrast: #7A3826;
+  --bg-color: #F4E4D7;
+  --fg-color: #5A2A1C;
+  --text-hero: #7A3826;
+  --text-body: #5A2A1C;
+  --text-eyebrow: #C7765C;
+  --text-muted: rgba(122, 56, 38, 0.65);
+  --line: rgba(122, 56, 38, 0.14);
+  --card-tint: rgba(244, 228, 215, 0.85);
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  background: var(--bg-primary);
+  color: var(--text-body);
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-body);
+  font-family: var(--font-body), Figtree, system-ui, sans-serif;
+  overflow-x: clip;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display), Outfit, sans-serif;
+  color: var(--text-hero);
+}
+
+.section-pad {
+  padding-block: clamp(48px, 6vw, 96px);
+}
+
+.section-pad-tight {
+  padding-block: clamp(32px, 4vw, 64px);
+}
+
+.hairline {
+  border-color: var(--line);
+}
+
+::selection {
+  background: var(--bg-accent);
+  color: #ffffff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
